@@ -1,5 +1,4 @@
 import numpy as np
-import pandas as pd
 import flask
 from flask import Flask, request, jsonify, render_template
 import joblib
